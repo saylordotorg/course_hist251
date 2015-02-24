@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST251: History of Africa to 1890"
+course_description: "An examination of the major political, economic, and social changes that took place in Africa from prehistory to the era of European imperialism in the nineteenth century."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Ancient and Classical Africa—The North (c. 2700 BCE – 700
 CE)** <span id="3"></span> 
 *The earliest and most sophisticated civilization to emerge in Africa in

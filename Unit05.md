@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST251: History of Africa to 1890"
+course_description: "An examination of the major political, economic, and social changes that took place in Africa from prehistory to the era of European imperialism in the nineteenth century."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Africa and The World Systems (c. 1000–1800 CE)** <span
 id="5"></span> 
 

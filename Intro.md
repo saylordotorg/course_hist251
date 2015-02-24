@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST251: History of Africa to 1890"
+course_description: "An examination of the major political, economic, and social changes that took place in Africa from prehistory to the era of European imperialism in the nineteenth century."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "HIST251: History of Africa to 1890"
 --------------------------------------------------------
 

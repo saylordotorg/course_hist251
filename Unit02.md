@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST251: History of Africa to 1890"
+course_description: "An examination of the major political, economic, and social changes that took place in Africa from prehistory to the era of European imperialism in the nineteenth century."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Peopling the Continent (c. 265,000 BCE­–1000 BCE)** <span
 id="2"></span> 
 *Human life began in Africa, and human evolution has much to do with the
