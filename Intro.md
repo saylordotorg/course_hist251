@@ -109,4 +109,13 @@ account in order to access this final exam unless you have already done
 so for another course. In order to pass this course, you must earn a
 score of 70% or higher on the final exam.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/hist251/Unit01/)
+- [Unit 2](https://legacy.saylor.org/hist251/Unit02/)
+- [Unit 3](https://legacy.saylor.org/hist251/Unit03/)
+- [Unit 4](https://legacy.saylor.org/hist251/Unit04/)
+- [Unit 5](https://legacy.saylor.org/hist251/Unit05/)
+- [Unit 6](https://legacy.saylor.org/hist251/Unit06/)
+- [Unit 7](https://legacy.saylor.org/hist251/Unit07/)
+- [Unit 8](https://legacy.saylor.org/hist251/Unit08/)
