@@ -8,6 +8,16 @@ previous: ../../../
 Course Syllabus for "HIST251: History of Africa to 1890"
 --------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_hist251) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This course will introduce you to the history of Africa from 300,000 BCE
 to the era of European imperialism in the nineteenth century. You will
 learn about the major political, economic, and social changes that took
