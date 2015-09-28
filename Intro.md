@@ -129,3 +129,4 @@ score of 70% or higher on the final exam.
 - [Unit 6](https://legacy.saylor.org/hist251/Unit06/)
 - [Unit 7](https://legacy.saylor.org/hist251/Unit07/)
 - [Unit 8](https://legacy.saylor.org/hist251/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST251/HIST251-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST251/HIST251-FinalExam-Answers.html)
