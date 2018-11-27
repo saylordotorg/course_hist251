@@ -101,7 +101,7 @@ id="4.1"></span> 
 **4.1.2 The Implications of Trade** <span id="4.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Implications of Trade”**
     Link: The Saylor Foundation’s “[The Implications of
-    Trade](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST251-4.1.2-TheImplicationsofTrade-FINAL.pdf)”
+    Trade](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-4.1.2-TheImplicationsofTrade-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the linked entry.
@@ -210,7 +210,7 @@ id="4.2.2"></span> 
 **4.2.3 Honor and Gender in Mali** <span id="4.2.3"></span> 
 -   **Reading: The Saylor Foundation’s “Honor and Gender in Mali”**
     Link: The Saylor Foundation’s “[Honor and Gender in
-    Mali](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST251-4.2.3-HonorandGenderinMali-FINAL.pdf)”
+    Mali](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-4.2.3-HonorandGenderinMali-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the linked entry.
@@ -255,7 +255,7 @@ id="4.3"></span> 
 **4.3.2 Confederations** <span id="4.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “Confederations”**
     Link: The Saylor Foundation’s
-    [“Confederations”](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST251-4.3.2-Confederations.pdf)
+    [“Confederations”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-4.3.2-Confederations.pdf)
     (PDF)  
         
      Instructions: Please read the linked entry.

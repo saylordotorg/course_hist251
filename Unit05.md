@@ -265,7 +265,7 @@ id="5.3"></span> 
 -   **Reading: The Saylor Foundation’s “The Mediterranean Trading
     System”**
     Link: The Saylor Foundation’s [“The Mediterranean Trading
-    System”](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST251-5.3.1-MediterraneanTrading.pdf)
+    System”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-5.3.1-MediterraneanTrading.pdf)
     (PDF)  
         
      Instructions: Please read the linked entry.
