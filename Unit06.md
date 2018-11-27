@@ -50,7 +50,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “The Making of the Atlantic
     World”**
     Link: The Saylor Foundation’s “[The Making of the Atlantic
-    World](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST251-6.1-TheMakingoftheAtlanticWorld-FINAL.pdf)”
+    World](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-6.1-TheMakingoftheAtlanticWorld-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the linked article.
@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
     Beginning of the New”**
     Link: The Saylor Foundation’s ["The End of the Old World and the
     Beginning of the
-    New"](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST103-1.1.1-OldNewWorld-FINAL.pdf) (PDF)  
+    New"](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST103-1.1.1-OldNewWorld-FINAL.pdf) (PDF)  
         
      Instructions: Read the first three pages of this article to gain an
     understanding of the reasons why the slave trade developed in the
@@ -214,7 +214,7 @@ id="6.2.2"></span> 
 **6.2.4 Organization of the System** <span id="6.2.4"></span> 
 -   **Reading: The Saylor Foundation’s “Organization of the System”**
     Link: The Saylor Foundation’s [“Organization of the
-    System”](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST251-6.2.4-OrganizationoftheSystem.pdf)
+    System”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-6.2.4-OrganizationoftheSystem.pdf)
     (PDF)  
         
      Instructions: Please read the linked entry.
