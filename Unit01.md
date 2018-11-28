@@ -161,7 +161,7 @@ id="1.2"></span> 
 
 -   **Activity: The Saylor Foundation’s “Images of Africa”**
     Link: The Saylor Foundation’s “[Images of
-    Africa](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-1.2.3-ImagesofAfrica-FINAL.pdf)”
+    Africa](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/HIST251-1.2.3-ImagesofAfrica-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please open the linked file to access this activity. 
@@ -220,7 +220,7 @@ id="1.2"></span> 
 -   **Reading: The Saylor Foundation’s “Flora and Fauna”**
 
     Link: The Saylor Foundation’s “[Flora and
-    Fauna](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST251-Sub-subunit-1.4.2-Flora-and-Fauna-FINAL.pdf)”
+    Fauna](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST251-Sub-subunit-1.4.2-Flora-and-Fauna-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the entire article. 

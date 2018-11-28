@@ -196,7 +196,7 @@ id="2.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “Nilo-Saharan Peoples”**
 
     Link: The Saylor Foundation’s “[Nilo-Saharan
-    Peoples](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST251-Sub-subunit-2.4.2-Nilo-Saharan-Peoples-FINAL.pdf)”
+    Peoples](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST251-Sub-subunit-2.4.2-Nilo-Saharan-Peoples-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the entire article.
@@ -205,7 +205,7 @@ id="2.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “The Spread of Humans—West
     Africa”**
     Link: The Saylor Foundation’s “[The Spread of Humans—West
-    Africa](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-2.4.3-The-Spread-of-Humans—West-Africa.pdf)”
+    Africa](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/HIST251-2.4.3-The-Spread-of-Humans—West-Africa.pdf)”
     (PDF)  
         
      Instructions: Please read the linked article.

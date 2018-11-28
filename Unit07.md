@@ -187,7 +187,7 @@ id="7.4"></span> 
     Mid-Nineteenth Century”**
     Link: The Saylor Foundation’s “[Africa at the Crossroads: The
     Mid-Nineteenth
-    Century](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-7.4-AfricaattheCrossroads-FINAL.pdf)”
+    Century](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/HIST251-7.4-AfricaattheCrossroads-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the linked entry.
