@@ -62,7 +62,7 @@ id="3.1"></span> 
     Origins of Egyptian Society”**
     Link: The Saylor Foundation’s [“Egypt’s Environment and the Origins
     of Egyptian
-    Society”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-3.1-Egypts-Environment.pdf)
+    Society”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/HIST251-3.1-Egypts-Environment.pdf)
     (PDF)  
         
      Instructions: Please read the linked introduction to this unit.
@@ -113,7 +113,7 @@ id="3.1"></span> 
 -   **Reading: W. Lawrence Balls’s *Egypt of the Egyptians* “Chapter
     1”**
     Link: W. Lawrence Balls’s *Egypt of the Egyptians* [“Chapter
-    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/HIST251-3.2.2-EgyptoftheEgyptians.pdf)
+    1”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/HIST251-3.2.2-EgyptoftheEgyptians.pdf)
     (PDF)  
         
      Instructions: Read chapter 1 for an outline of this period of
